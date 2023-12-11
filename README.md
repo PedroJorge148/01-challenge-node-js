@@ -2,6 +2,8 @@
 
 Este desafio conta com um exemplo para cada uma das requisões HTTP mais conhecidas na web. Onde foi feita de maneira eficiente um CRUD com recursos nativos do Node Js, além de importar dados vindos de um CSV para o arquivo de banco de dados.
 
+> [Descrição do projeto](https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47644519a408b438b52d913f)
+
 ## 💻 Projeto
 Para executar o projeto no computador, clone o repositório, e rode o comando:
 > npm run dev
